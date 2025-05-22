@@ -16,7 +16,7 @@
 - 🌍 I’m from **Agra, India**
 - 💬 Ask me about **JavaScript, React, Firebase, Git, and Responsive Design**
 - 📫 Reach me at **kumarsachinkain2000@gmail.com**
-- 🌐 Portfolio: [Visit Now](https://kumarsachinkain01.github.io/My_Blog/](https://sk-portfolio-sigma.vercel.app/)
+- 🌐 Portfolio: [Visit Now](https://sk-portfolio-sigma.vercel.app/)
 
 ---
 
